@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "poster_link": "https://th.bing.com/th/id/OIP.w0SK_ZRdaWbnC2goV4kbYAHaLH",
+    "year": 1994,
+    "Rating": 5
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "poster_link": "https://th.bing.com/th/id/OIP.ey6xERmnNgJAFH32jrfe6AHaLc",
+    "year": 1972,
+    "Rating": 5
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "poster_link": "https://th.bing.com/th/id/OIP.HaLivyihkpNXA7yf7yRhlQHaLH",
+    "year": 2008,
+    "Rating": 5
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "poster_link": "https://th.bing.com/th/id/OIP.JbU97hK0keRlJpoCAjWGpgHaK-",
+    "year": 1994,
+    "Rating": 5
+  },
+  {
+    "id": 5,
+    "title": "12 Angry Men",
+    "poster_link": "https://th.bing.com/th/id/OIP.OA_NGlnR_SbZIF8f2Q8NaAHaLH",
+    "year": 1957,
+    "Rating":5
+  },
+  {
+    "id": 6,
+    "title": "Schindler's List",
+    "poster_link": "https://th.bing.com/th/id/OIP.Ww_vRHlqpXXzor5fSafd7QHaLH",
+    "year": 1993,
+    "Rating":5
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "poster_link": "https://th.bing.com/th/id/OIP.Fe-zd7pd7lKnwdBauA28UQHaLH",
+    "year": 2001,
+    "Rating":5
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster_link": "https://th.bing.com/th/id/OIP.l2MkJooDWV1LO8uyrEZKewHaKs",
+    "year": 2002,
+    "Rating":5
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster_link": "https://th.bing.com/th/id/OIP._wUdkOsvkup77MhpneaJzQHaLH",
+    "year": 2003,
+    "Rating":5
+  },
+  {
+    "id": 10,
+    "title": "Forrest Gump",
+    "poster_link": "https://th.bing.com/th/id/OIP.SoTin_IJWjPr74_PiZq6ZwHaLH",
+    "year": 1994,
+    "Rating":5
+  },
+
+  {
+    "id": 11,
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster_link": "https://th.bing.com/th/id/OIP.l2MkJooDWV1LO8uyrEZKewHaKs",
+    "year": 2002,
+    "Rating":3
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster_link": "https://th.bing.com/th/id/OIP._wUdkOsvkup77MhpneaJzQHaLH",
+    "year": 2003,
+    "Rating":2
+  },
+
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster_link": "https://th.bing.com/th/id/OIP._wUdkOsvkup77MhpneaJzQHaLH",
+    "year": 2003,
+    "Rating":3.5
+  },
+  {
+    "id": 14,
+    "title": "Forrest Gump",
+    "poster_link": "https://th.bing.com/th/id/OIP.SoTin_IJWjPr74_PiZq6ZwHaLH",
+    "year": 1994,
+    "Rating":5
+  }
+]
